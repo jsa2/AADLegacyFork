@@ -1,7 +1,7 @@
 ## Azure AD Workbook fork for combining interactive and non-interactive logs 
 This is fork of the existing Azure AD workbook for Legacy Auth Sign-ins. This fork combines  non-interactive and sign-in logs for legacy authentication
 - Compared to the original book, the 'Interuptions count' -metric is removed, if needed this metric can be added to the workbook with very little work 
-- If you are interested about the combination of two log types, I wrote about that [link]([https://](https://securecloud.blog/2021/01/11/log-analytics-normalizing-different-data-types-for-analytics/)) 
+- If you are interested about the combination of two log types, I wrote about that [link](https://securecloud.blog/2021/01/11/log-analytics-normalizing-different-data-types-for-analytics/)
 
 ```json
 "fromTemplateId": "community-Workbooks/Azure Active Directory/SignInsUsingLegacyAuth",
