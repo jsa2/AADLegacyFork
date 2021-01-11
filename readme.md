@@ -1,5 +1,5 @@
 ## Azure AD Workbook fork for combining interactive and non-interactive logs 
-This is fork of the existing Azure AD workbook to include non-interactive sign-in logs for legacy authentication
+This is fork of the existing Azure AD workbook for Legacy Auth Sign-ins. This fork combines  non-interactive and sign-in logs for legacy authentication
 
 ```json
 "fromTemplateId": "community-Workbooks/Azure Active Directory/SignInsUsingLegacyAuth",
