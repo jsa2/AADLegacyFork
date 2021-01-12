@@ -483,11 +483,11 @@
     }
   ],
   "defaultResourceIds": [
-    "/subscriptions/3539c2a2-cd25-48c6-b295-14e59334ef1c/resourceGroups/rg-m365758644/providers/Microsoft.OperationalInsights/workspaces/m365x758644",
+    "/subscriptions/3539c2a2-cd25-48c6-b295-14e59334ef1c/resourceGroups/rg-m365758644/providers/Microsoft.OperationalInsights/workspaces/m365x758644"
 
   ],
   "fallbackResourceIds": [
-    "/subscriptions/3539c2a2-cd25-48c6-b295-14e59334ef1c/resourceGroups/rg-m365758644/providers/Microsoft.OperationalInsights/workspaces/m365x758644",
+    "/subscriptions/3539c2a2-cd25-48c6-b295-14e59334ef1c/resourceGroups/rg-m365758644/providers/Microsoft.OperationalInsights/workspaces/m365x758644"
   ],
   "fromTemplateId": "community-Workbooks/Azure Active Directory/SignInsUsingLegacyAuth",
   "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
